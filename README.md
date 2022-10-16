@@ -1,10 +1,8 @@
 # Django-chatApp
 Created a realtime chat App from basic to end and tested it on websocketking, will be integrating to a react application soon
 
-Install the dependecies from requirements.txt
-
-This doc will guide you how to make a realtime chat app using django using websocket and deploy it to the server. First we will go for chat app implementation and then we will deploy it.
-
+Steps to clone the project :
+git clone git@github.com:itssunny322/Django-chatApp.git
 Create a virtual env and activate it.
 Install the dependencies django, channels, djangorestframework, daphne.
 Change the database to postgres or keep it to SQLite if it's for testing.
